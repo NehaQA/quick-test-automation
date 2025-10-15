@@ -15,6 +15,7 @@ class LoginPage extends BasePage
        //const loginButton = page.locator('#login-submit'); // ✅ Locator
 
         this.errorMessage = "xpath=//div[@id='_rht_toaster']";
+        console.log("test yml working")
     }
 
 
